@@ -1,2 +1,2 @@
-# kubernetes_demo
-vezba za kubernetes
+# examples
+Example code and files from "Kubernetes: Up and Running"
